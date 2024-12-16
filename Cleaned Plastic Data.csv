@@ -1,147 +1,147 @@
-"Country","Child_mortality_rate","Total_Plastic_Waste_MT","Main_Sources","Recycling_Rate","Per_Capita_Waste_KG","Coastal_Waste_Risk","Gdp_percap","Population_density","Urban_population"
-"Afghanistan",52.4,450,"Consumer_Packaging",0.5,11.4,"Low",1360000,63.8,11376460
-"Angola",67,110,"Consumer_Packaging",0.4,3.3,"High",5780000,29.5,25197645
-"Albania",8.01,310,"Consumer_Packaging",15.6,107.9,"Medium",16200,103,1773980
-"Argentina",8.72,1980,"Consumer_Packaging",14.2,43.5,"Medium",21800,16.3,43138225
-"Armenia",10.9,280,"Consumer_Packaging",9.8,94.2,"Low",17500,103,1770650
-"Australia",3.25,1670,"Consumer_Packaging",13.2,64.8,"Medium",51600,3.44,23073508
-"Austria",2.73,1480,"Industrial_Packaging",56.4,164.8,"Low",55200,111,5436508
-"Azerbaijan",19.2,990,"Consumer_Packaging",18.2,96.8,"Medium",15300,125,5822506
-"Burundi",51,210,"Consumer_Packaging",0.8,17.3,"Low",708000,528,1957189
-"Belgium",3.05,1520,"Industrial_Packaging",43.2,131.2,"Low",53000,387,11608485
-"Benin",82.5,90,"Consumer_Packaging",0.6,7.3,"High",3560000,125,6870127
-"Burkina Faso",64.1,140,"Consumer_Packaging",0.4,6.5,"Low",2170000,84.2,7561383
-"Bangladesh",24.4,1610,"Consumer_Packaging",8.4,9.7,"High",6560000,1320,69999802
-"Bulgaria",6.06,1050,"Consumer_Packaging",31.5,152.3,"Medium",27600,62.7,4932158
-"Bahrain",6.18,690,"Consumer_Packaging",4.5,397.7,"High",52700,2000,1335012
-"Bosnia and Herzegovina",5.03,340,"Consumer_Packaging",13.2,104.5,"Low",17200,62.2,1614061
-"Belarus",2.95,1090,"Industrial_Consumer",7.2,115.7,"Low",19900,44.9,7409732
-"Bolivia",23.1,770,"Consumer_Packaging",2.8,65.3,"Low",8330000,11.3,8818928
-"Brazil",12.3,5960,"Consumer_Packaging",1.2,28.1,"Medium",15500,25.3,189992937
-"Bhutan",24.5,50,"Consumer_Packaging",12.3,64.2,"Low",12400,20.5,349223
-"Botswana",32.5,70,"Consumer_Packaging",8.9,29.3,"Low",15600,4.38,1949449
-"Central African Republic",102,40,"Consumer_Packaging",0.2,8.1,"Low",807000,8.27,2504453
-"Canada",4.67,3890,"Packaging_Consumer",9.4,102.1,"Low",48200,4.32,32824829
-"Chile",6.32,1250,"Consumer_Packaging",8.9,64.7,"High",25800,26.1,17276395
-"China",7.39,59080,"Packaging_Industrial",29.8,41.2,"High",19200,148,910895447
-"Cameroon",67.1,190,"Consumer_Packaging",1.2,7,"High",3780000,60.9,16992142
-"Democratic Republic of Congo",79.9,240,"Consumer_Packaging",0.4,2.6,"Medium",1190000,46.7,48517567
-"Republic of Congo",44.4,80,"Consumer_Packaging",0.9,14.2,"High",3200000,18.1,4225221
-"Colombia",12.4,1540,"Consumer_Packaging",7.8,30.1,"Medium",15700,46.6,42894219
-"Comoros",61,20,"Consumer_Packaging",0.4,22.7,"High",3270000,457,256747
-"Costa Rica",7.55,890,"Consumer_Packaging",13.2,172.8,"High",23000,100,4306402
-"Cyprus",2.03,650,"Consumer_Packaging",16.4,531.1,"Medium",43500,146,844129
-"Germany",2.63,6280,"Automotive_Packaging",56.1,75.6,"Low",53200,243,65697635
-"Djibouti",49.2,30,"Consumer_Packaging",1.1,29.7,"High",5290000,49.7,892708
-"Denmark",3.6,1350,"Packaging_Consumer",42.3,232.1,"Low",59800,140,5262755
-"Dominican Republic",25.6,1070,"Consumer_Packaging",2.8,97.6,"High",19600,235,9570242
-"Algeria",20.4,1150,"Consumer_Packaging",4.3,25.9,"High",11500,19.4,34327085
-"Ecuador",12.3,1110,"Consumer_Packaging",4.1,61.8,"High",11300,72.4,11785978
-"Eritrea",32.6,50,"Consumer_Packaging",0.3,13.9,"High",2020000,28.6,1622037
-"Spain",2.59,2580,"Consumer_Packaging",37.8,54.9,"Medium",40300,95.4,39449423
-"Estonia",2.24,710,"Industrial_Packaging",31.8,534.6,"Low",36400,31.5,953736
-"Ethiopia",44.5,310,"Consumer_Packaging",0.7,2.6,"Low",2470000,129,29299871
-"Finland",1.43,1330,"Industrial_Packaging",42.1,240.2,"Low",48500,18.5,4789791
-"Fiji",23.1,70,"Consumer_Packaging",6.7,76.9,"High",13300,50.6,549774
-"France",3.56,4980,"Packaging_Consumer",27.3,73.1,"Low",46100,120,55747567
-"Gabon",39.5,60,"Consumer_Packaging",2.3,26.4,"High",14000,9.64,2217982
-"United Kingdom",4.08,5030,"Packaging_Consumer",46.2,74.3,"Low",46000,283,57852807
-"Georgia",8.27,330,"Consumer_Packaging",11.2,88.3,"Medium",18200,54.8,2283557
-"Ghana",41.4,220,"Consumer_Packaging",4.5,7,"High",5590000,148,20213181
-"Guinea",87.2,80,"Consumer_Packaging",0.5,6,"High",2820000,58.6,5404495
-"Guinea-Bissau",72,40,"Consumer_Packaging",0.3,19.8,"High",1910000,76.6,977902
-"Greece",4.09,1450,"Consumer_Packaging",21.3,139.2,"Medium",32500,78.3,8358768
-"Croatia",4.07,970,"Consumer_Packaging",33.7,238.1,"Medium",35300,69.7,2257012
-"Hungary",3.68,1370,"Industrial_Packaging",30.1,141.5,"Low",35300,107,6987564
-"Indonesia",21.2,5850,"Food_Packaging",11.8,21.3,"Very_High",12900,147,162557286
-"India",30.6,26330,"Consumer_Goods",11.5,19.3,"High",7570000,484,519506163
-"Ireland",2.64,1290,"Consumer_Packaging",31.2,257.3,"Low",104000,76,3392447
-"Iraq",23.4,390,"Consumer_Packaging",1.2,9.6,"Medium",8780000,104,32580810
-"Iceland",1.77,570,"Consumer_Packaging",55.6,1564.4,"Low",56800,3.87,370149
-"Israel",3.11,1230,"Consumer_Packaging",14.5,133.7,"Medium",44400,428,9059486
-"Italy",2.55,3830,"Packaging_Industrial",41.2,63.4,"Medium",44400,201,42292160
-"Jordan",14.2,830,"Consumer_Packaging",7.8,80.6,"Medium",9510000,129,10432355
-"Japan",2.2,7990,"Packaging_Electronics",84.8,63.2,"Medium",42600,330,114608860
-"Kazakhstan",8.34,1190,"Industrial_Consumer",4.5,62.8,"Low",27300,7.53,11577724
-"Kenya",34.9,290,"Consumer_Packaging",7.8,5.3,"High",5050000,95.3,16265693
-"Cambodia",23.1,530,"Consumer_Packaging",5.4,31.2,"High",4730000,96.2,4332792
-"Kiribati",45.2,10,"Consumer_Packaging",2.1,82.4,"High",2100000,183,77121
-"Kuwait",6.83,850,"Consumer_Packaging",10.2,195.4,"High",46700,272,4310108
-"Lebanon",7.06,810,"Consumer_Packaging",6.4,119.1,"High",13500,564,4788127
-"Liberia",61.8,50,"Consumer_Packaging",0.2,9.7,"High",1500000,57,2902462
-"Libya",10.3,370,"Consumer_Packaging",0.8,53.2,"High",19800,4.36,5621338
-"Sri Lanka",6.37,1010,"Consumer_Packaging",29.8,46.7,"High",12100,366,4233528
-"Lesotho",67.2,50,"Consumer_Packaging",0.7,23.2,"Low",2290000,76.1,708766
-"Lithuania",3.56,930,"Industrial_Packaging",45.3,334.8,"Low",39100,45.6,1972821
-"Luxembourg",2.16,610,"Industrial_Packaging",48.9,957.8,"Low",111000,257,615639
-"Latvia",3.4,730,"Industrial_Packaging",43.2,386.8,"Low",33000,30.3,1292217
-"Morocco",18.2,1170,"Consumer_Packaging",7.8,31.2,"High",8250000,84.5,24641815
-"Moldova",13.6,280,"Consumer_Packaging",12.3,69.7,"Low",13600,93.3,1078639
-"Madagascar",42.3,210,"Consumer_Packaging",2.1,7.4,"High",1530000,53.6,12298904
-"Maldives",6.86,40,"Consumer_Packaging",3.2,72.8,"Very_High",22200,1750,218678
-"Mexico",11.7,4430,"Consumer_Packaging",6.7,34.2,"High",20200,66.2,104796621
-"Marshall Islands",29.4,10,"Consumer_Packaging",1.8,168.5,"High",6120000,216,33121
-"North Macedonia",8.77,290,"Consumer_Packaging",17.8,139.2,"Low",17500,73.5,1077748
-"Mali",85.3,120,"Consumer_Packaging",0.3,5.8,"Low",2170000,19.5,10759126
-"Malta",6.05,590,"Consumer_Packaging",11.2,1331.5,"Medium",48800,1690,525227
-"Myanmar",40.3,510,"Consumer_Packaging",2.1,9.3,"High",4180000,82.9,17526086
-"Montenegro",2.22,630,"Consumer_Packaging",3.4,1004.8,"Medium",23500,45.9,422094
-"Mongolia",13.4,470,"Consumer_Packaging",0.9,141.6,"Low",12700,2.2,2381606
-"Mozambique",61.2,170,"Consumer_Packaging",0.9,5.3,"High",1270000,42.8,13136242
-"Mauritania",68,70,"Consumer_Packaging",0.4,14.8,"High",5540000,4.87,2805896
-"Mauritius",13.6,80,"Consumer_Packaging",15.4,62.8,"High",24400,627,515350
-"Malawi",39.2,190,"Consumer_Packaging",0.5,9.7,"Low",1450000,223,3826324
-"Malaysia",6.85,2310,"Industrial_Consumer",24.3,70.2,"High",29000,107,27006299
-"Namibia",32.6,90,"Consumer_Packaging",12.3,35.1,"High",9820000,3.6,1429326
-"Niger",70.8,110,"Consumer_Packaging",0.2,4.4,"Low",1260000,20.7,4639173
-"Nigeria",106,1530,"Consumer_Packaging",2.1,7.3,"High",4990000,250,121487868
-"Netherlands",3.22,1780,"Industrial_Packaging",55.9,102.8,"Low",58000,537,16659928
-"Norway",2.1,1310,"Industrial_Packaging",44.5,243.1,"Low",66900,18.1,4636183
-"Nepal",26.7,380,"Consumer_Packaging",5.6,12.8,"Low",4030000,202,6767280
-"Nauru",30.1,10,"Consumer_Packaging",0.9,927.8,"High",11100,594,12780
-"Oman",9.5,790,"Consumer_Packaging",3.2,151.9,"High",35300,16.3,4105635
-"Pakistan",62.9,1590,"Consumer_Packaging",3.2,7.1,"High",5270000,321,91480744
-"Panama",13.6,870,"Consumer_Packaging",5.4,198.6,"High",35200,60.1,3105857
-"Peru",12.2,1210,"Consumer_Packaging",2.3,36.4,"High",12600,26.4,27111853
-"Philippines",25.5,1630,"Food_Packaging",9.1,14.8,"Very_High",8920000,383,56658695
-"Palau",15.8,10,"Consumer_Packaging",12.3,437.2,"High",13800,38.5,14881
-"Papua New Guinea",41.7,150,"Consumer_Packaging",1.2,16.5,"High",3820000,22.9,1417576
-"Poland",3.8,2210,"Packaging_Industrial",34.5,58.3,"Low",38000,127,22091485
-"Portugal",2.98,1390,"Consumer_Packaging",31.2,135.8,"Medium",36200,113,7147342
-"Paraguay",18.5,750,"Consumer_Packaging",4.1,104.2,"Low",14000,16.9,4332984
-"Qatar",6.02,550,"Consumer_Packaging",8.9,188.7,"High",88800,257,2698843
-"Romania",6.37,1410,"Consumer_Packaging",13.8,73.4,"Medium",33100,83.1,10418360
-"Rwanda",27.8,230,"Consumer_Packaging",11.2,17.4,"Low",2500000,576,2521821
-"Saudi Arabia",5.95,1650,"Consumer_Packaging",4.5,46.9,"Medium",48400,15.5,31386498
-"Sudan",53.8,350,"Consumer_Packaging",0.4,7.9,"Medium",3060000,28.4,17483775
-"Senegal",35.6,160,"Consumer_Packaging",1.8,9.4,"High",3590000,93.9,8806799
-"Singapore",2.43,1270,"Industrial_Packaging",59.8,217.9,"Medium",104000,8480,5917648
-"Solomon Islands",17.9,30,"Consumer_Packaging",0.8,42.9,"High",2420000,27.8,192784
-"Sierra Leone",91.9,60,"Consumer_Packaging",0.4,7.3,"High",1660000,118,3894454
-"Somalia",110,330,"Consumer_Packaging",0.1,20.4,"High",1130000,29.3,8694307
-"Sao Tome and Principe",26.7,10,"Consumer_Packaging",0.8,45.2,"High",3880000,240,177140
-"Slovenia",1.99,910,"Industrial_Packaging",42.1,436.5,"Low",41400,105,1189591
-"Sweden",2.28,1510,"Packaging_Industrial",50.6,146.3,"Low",54500,25.9,9349997
-"Eswatini",46.6,30,"Consumer_Packaging",1.2,25.6,"Low",9190000,70.9,300163
-"Seychelles",13.1,10,"Consumer_Packaging",18.9,101.2,"High",27200,280,70450
-"Chad",108,90,"Consumer_Packaging",0.1,5.4,"Low",1430000,15.3,4453756
-"Togo",61,70,"Consumer_Packaging",0.8,8.3,"High",2300000,171,4028035
-"Thailand",7.85,2410,"Consumer_Packaging",17.6,34.5,"High",17800,140,38491230
-"Tajikistan",29,220,"Consumer_Packaging",3.2,22.7,"Low",4400000,72.6,2863928
-"Turkmenistan",42,350,"Consumer_Packaging",2.1,57.3,"Low",15600,15.7,3518889
-"Tonga",13.7,10,"Consumer_Packaging",3.2,92.7,"High",5800000,161,24960
-"Trinidad and Tobago",16.5,670,"Consumer_Packaging",3.2,478.6,"High",23700,293,820255
-"Tunisia",14.3,1030,"Consumer_Packaging",4.1,85.9,"High",10500,78.5,8788529
-"Tuvalu",22.6,10,"Consumer_Packaging",1.2,833.3,"High",4730000,327,7549
-"Tanzania",44.2,270,"Consumer_Packaging",5.4,4.4,"High",2680000,75.2,25227921
-"Uganda",39.3,250,"Consumer_Packaging",2.3,5.3,"Low",2330000,244,13005977
-"Ukraine",7.37,1470,"Consumer_Packaging",3.4,33.7,"Medium",11700,65.1,25935150
-"Uruguay",6.7,950,"Consumer_Packaging",35.2,272.4,"Medium",24500,19.6,3278345
-"United States",6.57,42020,"Packaging_Consumer",32.1,127.5,"Medium",65900,37.5,278977409
-"Uzbekistan",19.4,420,"Consumer_Packaging",3.4,12.3,"Low",8380000,83.8,18399889
-"Vietnam",19,2540,"Food_Packaging",15.3,25.8,"Very_High",11900,320,39029513
-"Vanuatu",22.7,20,"Consumer_Packaging",1.1,63.8,"High",2780000,26.3,86891
-"Samoa",13.8,10,"Consumer_Packaging",4.5,49.8,"High",5490000,76.6,39512
-"South Africa",29.8,1580,"Consumer_Packaging",18.9,26.4,"Medium",13400,51.8,41576651
-"Zambia",50.1,130,"Consumer_Packaging",1.8,6.9,"Low",3410000,27.9,9530988
-"Zimbabwe",40.6,150,"Consumer_Packaging",2.1,9.9,"Low",2270000,42.2,5419091
+"Country","Child_mortality_rate","Total_Plastic_Waste_KG","Main_Sources","Recycling_Rate","Per_Capita_Waste_KG","Coastal_Waste_Risk","Gdp_percap","Population_density","Urban_population","continent"
+"Afghanistan",52.4,450,"Consumer_Packaging",0.5,11.4,"Low",1360000,63.8,11376460,"Asia"
+"Angola",67,110,"Consumer_Packaging",0.4,3.3,"High",5780000,29.5,25197645,"Africa"
+"Albania",8.01,310,"Consumer_Packaging",15.6,107.9,"Medium",16200,103,1773980,"Europe"
+"Argentina",8.72,1980,"Consumer_Packaging",14.2,43.5,"Medium",21800,16.3,43138225,"Americas"
+"Armenia",10.9,280,"Consumer_Packaging",9.8,94.2,"Low",17500,103,1770650,"Asia"
+"Australia",3.25,1670,"Consumer_Packaging",13.2,64.8,"Medium",51600,3.44,23073508,"Oceania"
+"Austria",2.73,1480,"Industrial_Packaging",56.4,164.8,"Low",55200,111,5436508,"Europe"
+"Azerbaijan",19.2,990,"Consumer_Packaging",18.2,96.8,"Medium",15300,125,5822506,"Asia"
+"Burundi",51,210,"Consumer_Packaging",0.8,17.3,"Low",708000,528,1957189,"Africa"
+"Belgium",3.05,1520,"Industrial_Packaging",43.2,131.2,"Low",53000,387,11608485,"Europe"
+"Benin",82.5,90,"Consumer_Packaging",0.6,7.3,"High",3560000,125,6870127,"Africa"
+"Burkina Faso",64.1,140,"Consumer_Packaging",0.4,6.5,"Low",2170000,84.2,7561383,"Africa"
+"Bangladesh",24.4,1610,"Consumer_Packaging",8.4,9.7,"High",6560000,1320,69999802,"Asia"
+"Bulgaria",6.06,1050,"Consumer_Packaging",31.5,152.3,"Medium",27600,62.7,4932158,"Europe"
+"Bahrain",6.18,690,"Consumer_Packaging",4.5,397.7,"High",52700,2000,1335012,"Asia"
+"Bosnia and Herzegovina",5.03,340,"Consumer_Packaging",13.2,104.5,"Low",17200,62.2,1614061,"Europe"
+"Belarus",2.95,1090,"Industrial_Consumer",7.2,115.7,"Low",19900,44.9,7409732,"Europe"
+"Bolivia",23.1,770,"Consumer_Packaging",2.8,65.3,"Low",8330000,11.3,8818928,"Americas"
+"Brazil",12.3,5960,"Consumer_Packaging",1.2,28.1,"Medium",15500,25.3,189992937,"Americas"
+"Bhutan",24.5,50,"Consumer_Packaging",12.3,64.2,"Low",12400,20.5,349223,"Asia"
+"Botswana",32.5,70,"Consumer_Packaging",8.9,29.3,"Low",15600,4.38,1949449,"Africa"
+"Central African Republic",102,40,"Consumer_Packaging",0.2,8.1,"Low",807000,8.27,2504453,"Africa"
+"Canada",4.67,3890,"Consumer_Packaging",9.4,102.1,"Low",48200,4.32,32824829,"Americas"
+"Chile",6.32,1250,"Consumer_Packaging",8.9,64.7,"High",25800,26.1,17276395,"Americas"
+"China",7.39,59080,"Industrial_Packaging",29.8,41.2,"High",19200,148,910895447,"Asia"
+"Cameroon",67.1,190,"Consumer_Packaging",1.2,7,"High",3780000,60.9,16992142,"Africa"
+"Democratic Republic of Congo",79.9,240,"Consumer_Packaging",0.4,2.6,"Medium",1190000,46.7,48517567,"Africa"
+"Republic of Congo",44.4,80,"Consumer_Packaging",0.9,14.2,"High",3200000,18.1,4225221,"Africa"
+"Colombia",12.4,1540,"Consumer_Packaging",7.8,30.1,"Medium",15700,46.6,42894219,"Americas"
+"Comoros",61,20,"Consumer_Packaging",0.4,22.7,"High",3270000,457,256747,"Africa"
+"Costa Rica",7.55,890,"Consumer_Packaging",13.2,172.8,"High",23000,100,4306402,"Americas"
+"Cyprus",2.03,650,"Consumer_Packaging",16.4,531.1,"Medium",43500,146,844129,"Asia"
+"Germany",2.63,6280,"Automotive_Packaging",56.1,75.6,"Low",53200,243,65697635,"Europe"
+"Djibouti",49.2,30,"Consumer_Packaging",1.1,29.7,"High",5290000,49.7,892708,"Africa"
+"Denmark",3.6,1350,"Consumer_Packaging",42.3,232.1,"Low",59800,140,5262755,"Europe"
+"Dominican Republic",25.6,1070,"Consumer_Packaging",2.8,97.6,"High",19600,235,9570242,"Americas"
+"Algeria",20.4,1150,"Consumer_Packaging",4.3,25.9,"High",11500,19.4,34327085,"Africa"
+"Ecuador",12.3,1110,"Consumer_Packaging",4.1,61.8,"High",11300,72.4,11785978,"Americas"
+"Eritrea",32.6,50,"Consumer_Packaging",0.3,13.9,"High",2020000,28.6,1622037,"Africa"
+"Spain",2.59,2580,"Consumer_Packaging",37.8,54.9,"Medium",40300,95.4,39449423,"Europe"
+"Estonia",2.24,710,"Industrial_Packaging",31.8,534.6,"Low",36400,31.5,953736,"Europe"
+"Ethiopia",44.5,310,"Consumer_Packaging",0.7,2.6,"Low",2470000,129,29299871,"Africa"
+"Finland",1.43,1330,"Industrial_Packaging",42.1,240.2,"Low",48500,18.5,4789791,"Europe"
+"Fiji",23.1,70,"Consumer_Packaging",6.7,76.9,"High",13300,50.6,549774,"Oceania"
+"France",3.56,4980,"Consumer_Packaging",27.3,73.1,"Low",46100,120,55747567,"Europe"
+"Gabon",39.5,60,"Consumer_Packaging",2.3,26.4,"High",14000,9.64,2217982,"Africa"
+"United Kingdom",4.08,5030,"Consumer_Packaging",46.2,74.3,"Low",46000,283,57852807,"Europe"
+"Georgia",8.27,330,"Consumer_Packaging",11.2,88.3,"Medium",18200,54.8,2283557,"Asia"
+"Ghana",41.4,220,"Consumer_Packaging",4.5,7,"High",5590000,148,20213181,"Africa"
+"Guinea",87.2,80,"Consumer_Packaging",0.5,6,"High",2820000,58.6,5404495,"Africa"
+"Guinea-Bissau",72,40,"Consumer_Packaging",0.3,19.8,"High",1910000,76.6,977902,"Africa"
+"Greece",4.09,1450,"Consumer_Packaging",21.3,139.2,"Medium",32500,78.3,8358768,"Europe"
+"Croatia",4.07,970,"Consumer_Packaging",33.7,238.1,"Medium",35300,69.7,2257012,"Europe"
+"Hungary",3.68,1370,"Industrial_Packaging",30.1,141.5,"Low",35300,107,6987564,"Europe"
+"Indonesia",21.2,5850,"Food_Packaging",11.8,21.3,"Very_High",12900,147,162557286,"Asia"
+"India",30.6,26330,"Consumer_Goods",11.5,19.3,"High",7570000,484,519506163,"Asia"
+"Ireland",2.64,1290,"Consumer_Packaging",31.2,257.3,"Low",104000,76,3392447,"Europe"
+"Iraq",23.4,390,"Consumer_Packaging",1.2,9.6,"Medium",8780000,104,32580810,"Asia"
+"Iceland",1.77,570,"Consumer_Packaging",55.6,1564.4,"Low",56800,3.87,370149,"Europe"
+"Israel",3.11,1230,"Consumer_Packaging",14.5,133.7,"Medium",44400,428,9059486,"Asia"
+"Italy",2.55,3830,"Industrial_Packaging",41.2,63.4,"Medium",44400,201,42292160,"Europe"
+"Jordan",14.2,830,"Consumer_Packaging",7.8,80.6,"Medium",9510000,129,10432355,"Asia"
+"Japan",2.2,7990,"Electronics_Packaging",84.8,63.2,"Medium",42600,330,114608860,"Asia"
+"Kazakhstan",8.34,1190,"Industrial_Consumer",4.5,62.8,"Low",27300,7.53,11577724,"Asia"
+"Kenya",34.9,290,"Consumer_Packaging",7.8,5.3,"High",5050000,95.3,16265693,"Africa"
+"Cambodia",23.1,530,"Consumer_Packaging",5.4,31.2,"High",4730000,96.2,4332792,"Asia"
+"Kiribati",45.2,10,"Consumer_Packaging",2.1,82.4,"High",2100000,183,77121,"Oceania"
+"Kuwait",6.83,850,"Consumer_Packaging",10.2,195.4,"High",46700,272,4310108,"Asia"
+"Lebanon",7.06,810,"Consumer_Packaging",6.4,119.1,"High",13500,564,4788127,"Asia"
+"Liberia",61.8,50,"Consumer_Packaging",0.2,9.7,"High",1500000,57,2902462,"Africa"
+"Libya",10.3,370,"Consumer_Packaging",0.8,53.2,"High",19800,4.36,5621338,"Africa"
+"Sri Lanka",6.37,1010,"Consumer_Packaging",29.8,46.7,"High",12100,366,4233528,"Asia"
+"Lesotho",67.2,50,"Consumer_Packaging",0.7,23.2,"Low",2290000,76.1,708766,"Africa"
+"Lithuania",3.56,930,"Industrial_Packaging",45.3,334.8,"Low",39100,45.6,1972821,"Europe"
+"Luxembourg",2.16,610,"Industrial_Packaging",48.9,957.8,"Low",111000,257,615639,"Europe"
+"Latvia",3.4,730,"Industrial_Packaging",43.2,386.8,"Low",33000,30.3,1292217,"Europe"
+"Morocco",18.2,1170,"Consumer_Packaging",7.8,31.2,"High",8250000,84.5,24641815,"Africa"
+"Moldova",13.6,280,"Consumer_Packaging",12.3,69.7,"Low",13600,93.3,1078639,"Europe"
+"Madagascar",42.3,210,"Consumer_Packaging",2.1,7.4,"High",1530000,53.6,12298904,"Africa"
+"Maldives",6.86,40,"Consumer_Packaging",3.2,72.8,"Very_High",22200,1750,218678,"Asia"
+"Mexico",11.7,4430,"Consumer_Packaging",6.7,34.2,"High",20200,66.2,104796621,"Americas"
+"Marshall Islands",29.4,10,"Consumer_Packaging",1.8,168.5,"High",6120000,216,33121,"Oceania"
+"North Macedonia",8.77,290,"Consumer_Packaging",17.8,139.2,"Low",17500,73.5,1077748,"Europe"
+"Mali",85.3,120,"Consumer_Packaging",0.3,5.8,"Low",2170000,19.5,10759126,"Africa"
+"Malta",6.05,590,"Consumer_Packaging",11.2,1331.5,"Medium",48800,1690,525227,"Europe"
+"Myanmar",40.3,510,"Consumer_Packaging",2.1,9.3,"High",4180000,82.9,17526086,"Asia"
+"Montenegro",2.22,630,"Consumer_Packaging",3.4,1004.8,"Medium",23500,45.9,422094,"Europe"
+"Mongolia",13.4,470,"Consumer_Packaging",0.9,141.6,"Low",12700,2.2,2381606,"Asia"
+"Mozambique",61.2,170,"Consumer_Packaging",0.9,5.3,"High",1270000,42.8,13136242,"Africa"
+"Mauritania",68,70,"Consumer_Packaging",0.4,14.8,"High",5540000,4.87,2805896,"Africa"
+"Mauritius",13.6,80,"Consumer_Packaging",15.4,62.8,"High",24400,627,515350,"Africa"
+"Malawi",39.2,190,"Consumer_Packaging",0.5,9.7,"Low",1450000,223,3826324,"Africa"
+"Malaysia",6.85,2310,"Industrial_Consumer",24.3,70.2,"High",29000,107,27006299,"Asia"
+"Namibia",32.6,90,"Consumer_Packaging",12.3,35.1,"High",9820000,3.6,1429326,"Africa"
+"Niger",70.8,110,"Consumer_Packaging",0.2,4.4,"Low",1260000,20.7,4639173,"Africa"
+"Nigeria",106,1530,"Consumer_Packaging",2.1,7.3,"High",4990000,250,121487868,"Africa"
+"Netherlands",3.22,1780,"Industrial_Packaging",55.9,102.8,"Low",58000,537,16659928,"Europe"
+"Norway",2.1,1310,"Industrial_Packaging",44.5,243.1,"Low",66900,18.1,4636183,"Europe"
+"Nepal",26.7,380,"Consumer_Packaging",5.6,12.8,"Low",4030000,202,6767280,"Asia"
+"Nauru",30.1,10,"Consumer_Packaging",0.9,927.8,"High",11100,594,12780,"Oceania"
+"Oman",9.5,790,"Consumer_Packaging",3.2,151.9,"High",35300,16.3,4105635,"Asia"
+"Pakistan",62.9,1590,"Consumer_Packaging",3.2,7.1,"High",5270000,321,91480744,"Asia"
+"Panama",13.6,870,"Consumer_Packaging",5.4,198.6,"High",35200,60.1,3105857,"Americas"
+"Peru",12.2,1210,"Consumer_Packaging",2.3,36.4,"High",12600,26.4,27111853,"Americas"
+"Philippines",25.5,1630,"Food_Packaging",9.1,14.8,"Very_High",8920000,383,56658695,"Asia"
+"Palau",15.8,10,"Consumer_Packaging",12.3,437.2,"High",13800,38.5,14881,"Oceania"
+"Papua New Guinea",41.7,150,"Consumer_Packaging",1.2,16.5,"High",3820000,22.9,1417576,"Oceania"
+"Poland",3.8,2210,"Industrial_Packaging",34.5,58.3,"Low",38000,127,22091485,"Europe"
+"Portugal",2.98,1390,"Consumer_Packaging",31.2,135.8,"Medium",36200,113,7147342,"Europe"
+"Paraguay",18.5,750,"Consumer_Packaging",4.1,104.2,"Low",14000,16.9,4332984,"Americas"
+"Qatar",6.02,550,"Consumer_Packaging",8.9,188.7,"High",88800,257,2698843,"Asia"
+"Romania",6.37,1410,"Consumer_Packaging",13.8,73.4,"Medium",33100,83.1,10418360,"Europe"
+"Rwanda",27.8,230,"Consumer_Packaging",11.2,17.4,"Low",2500000,576,2521821,"Africa"
+"Saudi Arabia",5.95,1650,"Consumer_Packaging",4.5,46.9,"Medium",48400,15.5,31386498,"Asia"
+"Sudan",53.8,350,"Consumer_Packaging",0.4,7.9,"Medium",3060000,28.4,17483775,"Africa"
+"Senegal",35.6,160,"Consumer_Packaging",1.8,9.4,"High",3590000,93.9,8806799,"Africa"
+"Singapore",2.43,1270,"Industrial_Packaging",59.8,217.9,"Medium",104000,8480,5917648,"Asia"
+"Solomon Islands",17.9,30,"Consumer_Packaging",0.8,42.9,"High",2420000,27.8,192784,"Oceania"
+"Sierra Leone",91.9,60,"Consumer_Packaging",0.4,7.3,"High",1660000,118,3894454,"Africa"
+"Somalia",110,330,"Consumer_Packaging",0.1,20.4,"High",1130000,29.3,8694307,"Africa"
+"Sao Tome and Principe",26.7,10,"Consumer_Packaging",0.8,45.2,"High",3880000,240,177140,"Africa"
+"Slovenia",1.99,910,"Industrial_Packaging",42.1,436.5,"Low",41400,105,1189591,"Europe"
+"Sweden",2.28,1510,"Industrial_Packaging",50.6,146.3,"Low",54500,25.9,9349997,"Europe"
+"Eswatini",46.6,30,"Consumer_Packaging",1.2,25.6,"Low",9190000,70.9,300163,"Africa"
+"Seychelles",13.1,10,"Consumer_Packaging",18.9,101.2,"High",27200,280,70450,"Africa"
+"Chad",108,90,"Consumer_Packaging",0.1,5.4,"Low",1430000,15.3,4453756,"Africa"
+"Togo",61,70,"Consumer_Packaging",0.8,8.3,"High",2300000,171,4028035,"Africa"
+"Thailand",7.85,2410,"Consumer_Packaging",17.6,34.5,"High",17800,140,38491230,"Asia"
+"Tajikistan",29,220,"Consumer_Packaging",3.2,22.7,"Low",4400000,72.6,2863928,"Asia"
+"Turkmenistan",42,350,"Consumer_Packaging",2.1,57.3,"Low",15600,15.7,3518889,"Asia"
+"Tonga",13.7,10,"Consumer_Packaging",3.2,92.7,"High",5800000,161,24960,"Oceania"
+"Trinidad and Tobago",16.5,670,"Consumer_Packaging",3.2,478.6,"High",23700,293,820255,"Americas"
+"Tunisia",14.3,1030,"Consumer_Packaging",4.1,85.9,"High",10500,78.5,8788529,"Africa"
+"Tuvalu",22.6,10,"Consumer_Packaging",1.2,833.3,"High",4730000,327,7549,"Oceania"
+"Tanzania",44.2,270,"Consumer_Packaging",5.4,4.4,"High",2680000,75.2,25227921,"Africa"
+"Uganda",39.3,250,"Consumer_Packaging",2.3,5.3,"Low",2330000,244,13005977,"Africa"
+"Ukraine",7.37,1470,"Consumer_Packaging",3.4,33.7,"Medium",11700,65.1,25935150,"Europe"
+"Uruguay",6.7,950,"Consumer_Packaging",35.2,272.4,"Medium",24500,19.6,3278345,"Americas"
+"United States",6.57,42020,"Consumer_Packaging",32.1,127.5,"Medium",65900,37.5,278977409,"Americas"
+"Uzbekistan",19.4,420,"Consumer_Packaging",3.4,12.3,"Low",8380000,83.8,18399889,"Asia"
+"Vietnam",19,2540,"Food_Packaging",15.3,25.8,"Very_High",11900,320,39029513,"Asia"
+"Vanuatu",22.7,20,"Consumer_Packaging",1.1,63.8,"High",2780000,26.3,86891,"Oceania"
+"Samoa",13.8,10,"Consumer_Packaging",4.5,49.8,"High",5490000,76.6,39512,"Oceania"
+"South Africa",29.8,1580,"Consumer_Packaging",18.9,26.4,"Medium",13400,51.8,41576651,"Africa"
+"Zambia",50.1,130,"Consumer_Packaging",1.8,6.9,"Low",3410000,27.9,9530988,"Africa"
+"Zimbabwe",40.6,150,"Consumer_Packaging",2.1,9.9,"Low",2270000,42.2,5419091,"Africa"
