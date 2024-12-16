@@ -10,6 +10,7 @@ child_mort<- read.csv("https://raw.githubusercontent.com/C-DeLeon/BUAN-314-Proje
 
 library(tidyverse)
 library(sqldf)
+library(ggplot2)
 #############CLEANING DATA##########################
 #cleaning both larger dataset to get a table of only the country names and the data from 2023
 gdp_2023 <- gdp %>%
@@ -151,37 +152,95 @@ write.csv(plastic_cleaned, "/Users/brianna/Desktop/BUAN-314-Project/Cleaned Plas
 
 #############################
 #####Query + Visualization 1####
- 
+#Density continent
+density_plot <- ggplot(df, aes(x = Per_Capita_Waste_KG, color = continent, fill = continent)) +
+  geom_density(alpha = 0.2) +
+  labs(title = "Per Capita Waste Density by Continent") +
+  theme_minimal()
 
+print(density_plot)
 
+#Density Plot Query
+QD <- "SELECT continent, SUM(Per_Capita_Waste_KG)
+FROM df
+GROUP BY continent
+ORDER BY Per_Capita_Waste_KG DESC"
 
-
-
-
+sqldf(QD)
 
 #####Query + Visualization 2####
+# Boxplot
+boxplot <- ggplot(df, aes(x = continent, y = Child_mortality_rate)) +
+  geom_boxplot(fill = "blue", color = "black", alpha = 0.5) +
+  labs(title = "Box Plot of Child Mortality Rate by Continent",x = "Continent",
+       y = "Child Mortality Rate")
+print(boxplot)
 
+#BoxPlot Query
+Q1<- "SELECT continent, AVG(Child_mortality_rate),  Total_Plastic_Waste_KG
+FROM df
+GROUP BY continent
+ORDER BY Child_mortality_rate DESC
+LIMIT 5;"
 
-
-
-
-
+sqldf(Q1)
 
 #####Query + Visualization 3####
+#BarChart
+summarized_plastic <- df %>%
+  group_by(continent) %>%
+  summarise(Total_Plastic_Waste_KG = sum(Total_Plastic_Waste_KG, na.rm = TRUE))
 
+bar_chart <- ggplot(summarized_plastic, aes(x = continent, y = Total_Plastic_Waste_KG,
+                                            fill = continent)) +
+  geom_bar(stat = "identity", color = "black") +
+  geom_text(aes(label = scales::comma(Total_Plastic_Waste_KG)), vjust = -0.5, color = "black") +
+  labs(
+    title = "Total Plastic Waste by Continent",
+    x = "Continent",
+    y = "Total Plastic Waste (kg)"
+  ) +
+  scale_y_continuous(labels = scales::comma) +
+  theme_minimal() +
+  theme(legend.position = "none")
 
+print(bar_chart)
 
+#Bar Chart Query
+QB <- "SELECT continent, SUM(Total_Plastic_Waste_KG), Main_Sources
+FROM df
+GROUP BY continent
+ORDER BY Total_Plastic_Waste_KG DESC
+LIMIT 5;"
 
-
+sqldf(QB) 
 
 #####Query + Visualization 4####
+#Pie Chart
+top_10_countries <- df %>%
+  arrange(desc(Total_Plastic_Waste_KG)) %>%
+  head(10)
 
+top_10_countries_perc <- top_10_countries %>%
+  mutate(Percentage = (Total_Plastic_Waste_KG / sum(Total_Plastic_Waste_KG)) * 100)
 
+pie <- ggplot(top_10_countries_perc, aes(x = "", y = Total_Plastic_Waste_KG, fill = Country)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  theme_void() +
+  labs(title = "Plastic Waste Distribution (Top 10 Countries)") +
+  theme(legend.position = "right") +
+  geom_text(aes(label = paste0(round(Percentage, 1), "%")), 
+            position = position_stack(vjust = 0.5), size = 4, color = "white")
 
+print(pie)
 
-
-
-
+#Pie Chart Query
+top_10_countries_Q <- "SELECT Country, Gdp_percap, Urban_population, Total_Plastic_Waste_KG
+FROM df
+ORDER BY Total_Plastic_Waste_KG DESC
+LIMIT 10;"
+sqldf(top_10_countries_Q)
 
 #####Query + Visualization 5####
 
